@@ -1,0 +1,14 @@
+[
+  {
+    "package": "GLMaSPU",
+    "oncran": true
+  },
+  {
+    "package": "MiSPU",
+    "oncran": true
+  },
+  {
+    "package": "prclust",
+    "oncran": true
+  }
+]
