@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GLMaSPU"]
 	path = GLMaSPU
 	url = https://github.com/chongwu-biostat/glmaspu
-	shallow = true
-	registered = true
 [submodule "MiSPU"]
 	path = MiSPU
 	url = https://github.com/chongwu-biostat/mispu
-	shallow = true
-	registered = true
 [submodule "prclust"]
 	path = prclust
 	url = https://github.com/chongwu-biostat/prclust
-	shallow = true
-	registered = true
